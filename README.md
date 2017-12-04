@@ -14,3 +14,4 @@ será demonstrado utilizando bibliotecas do Python como o scikit-learn.
 
 * Jupyter Notebook com kernel Python 3
 * Ubuntu 16.04
+* Addon iPython Notebook para BitBucket
