@@ -4,11 +4,12 @@ Esse repositório contém implementações dos algoritmos vistos na disciplina d
 Todas as implementações foram feitas em Python utilizando Jupyter Notebook com o objetivo de explicar também os algoritmos vistos. Após a implementação, o mesmo algoritmo 
 será demonstrado utilizando bibliotecas do Python como o scikit-learn.  
 
-### Algoritmos Implementados ###
+### Algoritmos Implementados de Aprendizagem Supervisionada ###
 
 * K-NN
 * Árvore de Decisão
 * Redes Neurais 
+* naive Bayes
 
 ### Configuração utilizada ###
 
