@@ -9,7 +9,7 @@ será demonstrado utilizando bibliotecas do Python como o scikit-learn.
 * K-NN
 * Árvore de Decisão
 * Redes Neurais 
-* naive Bayes
+* Naive Bayes
 
 ### Configuração utilizada ###
 
